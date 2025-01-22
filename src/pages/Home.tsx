@@ -15,9 +15,9 @@ import {
 } from "lucide-react";
 
 const slides = [
-  "https://pbs.twimg.com/media/GfeXmNmbQAAmVsC?format=jpg&name=4096x4096",
-  "https://pbs.twimg.com/media/GfeXmNoakAAYCAN?format=jpg&name=4096x4096",
-  "https://pbs.twimg.com/media/GfeXmNmbQAAmVsC?format=jpg&name=4096x4096",
+  "https://firebasestorage.googleapis.com/v0/b/kathavachak-95a17.appspot.com/o/NRLM%2F1.jpeg?alt=media&token=2bcaa381-60f5-40d6-91b5-aaea3261916d",
+  "https://firebasestorage.googleapis.com/v0/b/kathavachak-95a17.appspot.com/o/NRLM%2F2.jpeg?alt=media&token=7821ae8b-ce9b-4990-a7c0-ef0b08732e7a",
+  "https://firebasestorage.googleapis.com/v0/b/kathavachak-95a17.appspot.com/o/NRLM%2F3.jpeg?alt=media&token=28e9bfef-073a-47aa-a75f-f74c096827fb",
 ];
 
 function HomePage() {
@@ -206,7 +206,7 @@ function HomePage() {
             </div>
             <div className="relative">
               <img
-                src="https://media.licdn.com/dms/image/v2/D5612AQHPkmxdw3j3XQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1657607818552?e=1743033600&v=beta&t=NV_X50qWUYO2RjaBQrdZZ-k1F3iSG2jitXOEjmLYTw0"
+                src="https://firebasestorage.googleapis.com/v0/b/kathavachak-95a17.appspot.com/o/NRLM%2Frural.jpeg?alt=media&token=23ac663f-9e36-4818-912f-441e6a4fc4a6"
                 alt="Rural community meeting"
                 className="rounded-2xl shadow-2xl w-full h-[400px] object-cover transform hover:scale-105 transition-transform duration-300"
               />
@@ -363,13 +363,13 @@ function HomePage() {
 
           <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
             {[
-              "https://pbs.twimg.com/media/GfeWzNvagAAJpKv?format=jpg&name=4096x4096",
-              "https://pbs.twimg.com/media/GfeWH1HbMAEzf1M?format=jpg&name=4096x4096",
-              "https://pbs.twimg.com/media/GeqsmWvaAAAroUC?format=jpg&name=large",
-              "https://pbs.twimg.com/media/GeA6_DlbMAA2Z6N?format=jpg&name=large",
-              "https://pbs.twimg.com/media/GcvbPOpbcAAeh28?format=jpg&name=large",
-              "https://pbs.twimg.com/media/GcQuVSda0AAVCck?format=jpg&name=large",
-              "https://pbs.twimg.com/media/GcCD5raXYAAoQnD?format=jpg&name=large",
+              "https://firebasestorage.googleapis.com/v0/b/kathavachak-95a17.appspot.com/o/NRLM%2F2.jpeg?alt=media&token=7821ae8b-ce9b-4990-a7c0-ef0b08732e7a",
+              "https://firebasestorage.googleapis.com/v0/b/kathavachak-95a17.appspot.com/o/NRLM%2F1.jpeg?alt=media&token=2bcaa381-60f5-40d6-91b5-aaea3261916d",
+              "https://firebasestorage.googleapis.com/v0/b/kathavachak-95a17.appspot.com/o/NRLM%2F6.jpeg?alt=media&token=6972f38e-3c5c-4896-b795-59d20e5225ce",
+              "https://firebasestorage.googleapis.com/v0/b/kathavachak-95a17.appspot.com/o/NRLM%2F7.jpeg?alt=media&token=7b21e21d-a9a6-43ad-b5cf-50126a6686ba",
+              "https://firebasestorage.googleapis.com/v0/b/kathavachak-95a17.appspot.com/o/NRLM%2F8.jpeg?alt=media&token=1d0b9c22-74b4-415a-bdce-52a820f59fcd",
+              "https://firebasestorage.googleapis.com/v0/b/kathavachak-95a17.appspot.com/o/NRLM%2F9.jpeg?alt=media&token=b9b022cb-c40c-415a-8be8-45727d7937e4",
+              "https://firebasestorage.googleapis.com/v0/b/kathavachak-95a17.appspot.com/o/NRLM%2F4.jpeg?alt=media&token=5c6cb3b4-b871-4518-b4ac-169980329e14",
               "https://pbs.twimg.com/media/Gb7pFGaW0AAwKpz?format=jpg&name=large",
               "https://pbs.twimg.com/media/GYeLWu-WcAEaVTV?format=jpg&name=4096x4096",
             ].map((url, index) => (
