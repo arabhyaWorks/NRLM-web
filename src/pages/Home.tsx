@@ -18,6 +18,10 @@ const slides = [
   "https://firebasestorage.googleapis.com/v0/b/kathavachak-95a17.appspot.com/o/NRLM%2F1.jpeg?alt=media&token=2bcaa381-60f5-40d6-91b5-aaea3261916d",
   "https://firebasestorage.googleapis.com/v0/b/kathavachak-95a17.appspot.com/o/NRLM%2F2.jpeg?alt=media&token=7821ae8b-ce9b-4990-a7c0-ef0b08732e7a",
   "https://firebasestorage.googleapis.com/v0/b/kathavachak-95a17.appspot.com/o/NRLM%2F3.jpeg?alt=media&token=28e9bfef-073a-47aa-a75f-f74c096827fb",
+  "https://firebasestorage.googleapis.com/v0/b/kathavachak-95a17.appspot.com/o/NRLM%2F7.jpeg?alt=media&token=7b21e21d-a9a6-43ad-b5cf-50126a6686ba",
+  "https://firebasestorage.googleapis.com/v0/b/kathavachak-95a17.appspot.com/o/NRLM%2F6.jpeg?alt=media&token=6972f38e-3c5c-4896-b795-59d20e5225ce",
+  "https://firebasestorage.googleapis.com/v0/b/kathavachak-95a17.appspot.com/o/NRLM%2F8.jpeg?alt=media&token=1d0b9c22-74b4-415a-bdce-52a820f59fcd",
+  "https://firebasestorage.googleapis.com/v0/b/kathavachak-95a17.appspot.com/o/NRLM%2F9.jpeg?alt=media&token=b9b022cb-c40c-415a-8be8-45727d7937e4",
 ];
 
 function HomePage() {
